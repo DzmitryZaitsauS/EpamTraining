@@ -13,5 +13,9 @@ namespace EpamTraining.Models
             : base("DefaultConnection")
         {
         }
+       /* public ApplicationDbContext()
+            : base("MyConnString")
+        {
+        }*/
     }
 }

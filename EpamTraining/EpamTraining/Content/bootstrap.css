@@ -6814,3 +6814,9 @@ td.visible-print {
     display: none !important;
   }
 }
+
+#mymenu{
+
+position:absolute;
+background-color:silver;
+}
